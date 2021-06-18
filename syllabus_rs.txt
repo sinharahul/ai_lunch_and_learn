@@ -1,0 +1,9 @@
+Datastructures and algorthms
+1) 1 or 2 easy problems leetcode(First 1 - 2 months)
+2)Review cracking the coding interview book
+
+
+AWS Certification
+a)Solution Architect
+b)Developer Associate
+c)Machine Learning
